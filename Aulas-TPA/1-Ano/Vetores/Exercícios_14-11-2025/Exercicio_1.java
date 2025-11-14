@@ -3,7 +3,7 @@ import java.util.*;
 public class aula2 {
 	public static void main(String args[]) {
 		Scanner ler = new Scanner(System.in);
-		int a[],b[],i,k,par,impar;
+		int a[],b[],i,k;
 		final int TAM = 10;
 		a = new int[TAM];
 		b = new int[TAM];
