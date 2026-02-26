@@ -1,6 +1,0 @@
-let Semana = 1
-if(Semana = 1){
-        console.log("hoje é um dia da semana");
-    } else{
-        console.log("hoje é fim de semana")
-}
